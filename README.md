@@ -28,12 +28,10 @@ Checkout the <a href="https://microchipsupport.force.com/s/" target="_blank">Tec
 1. [Harmony MCC Configuration](#step5) 
 1. [Board Programming](#step6)
 1. [Run the demo](#step7)
-1. [Related Applications](#step8)
 
 ## 1. Introduction<a name="step1">
 
-This project demonstrates a BLE-controlled 360° servo motor system built using the Microchip PIC32CXBZ6/PIC32BZ6 wireless MCU. It combines the PIC32CXBZ6 BLE stack with TCC-based PWM generation to control an MG996R servo motor through simple wireless commands such as start, stop, reverse, and adjustable speed values.
-
+This project demonstrates a BLE-controlled 360° servo motor system built using the Microchip PIC32CXBZ6/PIC32BZ6 wireless MCU. It combines the PIC32CXBZ6 BLE stack with TCC-based PWM generation to control an MG996R servo motor through simple wireless commands such as start, stop, and reverse.
 ![](docs/setup.png)
 
 ## 2. Bill of Materials<a name="step2">
@@ -137,6 +135,6 @@ Follow the steps provided in the link to [Build and program the application](htt
 
 ## 7. Run the demo<a name="step7">
 
-- After programming the board, the expected application behavior is shown in the below [video](https://github.com/MicrochipTech/PIC32CXBZ2_WBZ45x_BLE_UART_E_PAPER_Display/blob/main/docs/Working_Demo.gif).
+- After programming the board, the expected application behavior is shown in the below [video](https://github.com/MicrochipTech/PIC32CXBZ6_PIC32BZ6_BLE_SERVO_MOTOR/blob/main/docs/Working_Demo.gif).
 
 ![Alt Text](docs/Working_Demo.gif)
