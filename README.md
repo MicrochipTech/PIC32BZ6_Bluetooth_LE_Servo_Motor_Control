@@ -1,4 +1,4 @@
-# PIC32CXBZ6_PIC32BZ6_BLE_SERVO_MOTOR
+# PIC32BZ6 Bluetooth LE Servo Motor Control
 
 <img src="docs/IoT-Made-Easy-Logo.png" width=100>
 
